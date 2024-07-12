@@ -1,0 +1,7 @@
+The MERN stack is a free and open-source JavaScript software stack for creating dynamic websites and web applications
+
+M: The typical NoSQL database is MongoDB.
+E: The standard web application framework for creating RESTful APIs is Express.js.
+R: The JavaScript library React.js, which is used to create user interface elements.
+N: Node.js is an open-source server environment that runs on multiple operating systems, including Windows, Linux, Unix, and macOS.
+These technologies work together to create single-page web apps that are quickly loaded, perform well, and provide seamless user experiences.
