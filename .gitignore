@@ -1,0 +1,5 @@
+node_modules
+client-admin/build
+client-customer/build
+.env
+
