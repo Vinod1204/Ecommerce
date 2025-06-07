@@ -31,10 +31,6 @@ const ProductDAO = {
     const result = await Models.Product.findByIdAndRemove(_id);
     return result;
   },
-  async selectByID(_id) {
-    const product = await Models.Product.findById(_id).exec();
-    return product;
-  },
   async selectTopNew(top) {
     const query = {};
     const mysort = { cdate: -1 }; // descending
